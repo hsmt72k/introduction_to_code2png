@@ -60,11 +60,11 @@ https://code2png.vercel.app
 
 ##### code2png 操作デモ
 <!-- ./images/code2png_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/8e1b9099-2c7f-4e5f-afee-aa93b12a5c37" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/ae8595c4-0807-4848-85e8-e65a268ecc60" controls="true"></video>
 
 ##### Python サンプルコード画像変換
 <!-- ./images/code2png_python.mp4 -->
-<video src="https://github.com/user-attachments/assets/702175ec-d0d2-4023-b661-aef60293928f" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/b2d62210-cc6e-4000-8f1e-f8146ba1ff1e" controls="true"></video>
 
 ## <a name="screen_sample">💻 画面サンプル</a>
 
@@ -124,7 +124,7 @@ https://code2png.vercel.app
 
 #### ダウンロード結果
 
-<img src="./images/code[dog.py].png" width="360px" />
+<img src="./images/dog_py.png" width="360px" />
 
 ## <a name="outro">🤸 おわりに</a>
 
